@@ -1,4 +1,4 @@
-# mini-gui-games-python
+# gui-games-python
 This repository contains a collection of projects created using Python, Tkinter, and various other libraries. Each project offers a unique and engaging experience, showcasing different aspects of programming and game development. This seems nostalgic and fun to play, do try some.
 
 ### 1. FlashCardApp
